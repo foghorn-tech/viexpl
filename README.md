@@ -13,7 +13,7 @@ interface IStartSerive {
     fields: IColumnp[];
     check_list: string[];（需要计算的洞察类型列表，默认为全部）
     breakdown: string[];（默认为区分度最大维度）
-    aggrType: string;（默认为sum）
+    aggrType: string;（默认为mean）
     subspaces: Array<IRowp[]>;（默认为最大子空间）
     rangeN: int;（默认为5）
 }
