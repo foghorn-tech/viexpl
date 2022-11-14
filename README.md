@@ -5,6 +5,9 @@
 
 测试地址 https://gateway.kanaries.cn:2433/insight
 
+> **Redirect to https://github.com/Kanaries/viexpl**
+
+
 ## 接口
 传入参数
 ```typescript
