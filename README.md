@@ -40,12 +40,19 @@ interface IStartReturns {
 ## 参考文献
 参考资料
 [1] Tang, Bo, et al. "Extracting top-k insights from multi-dimensional data." Proceedings of the 2017 ACM International Conference on Management of Data. 2017.
+
 [2] Ding, Rui, et al. "Quickinsights: Quick and automatic discovery of insights from multi-dimensional data." Proceedings of the 2019 International Conference on Management of Data. 2019.
+
 [3] Mihart, Maggies, MSFTmgblythe. 2021. Types of insights supported by Power BI. Accessed at https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types
+
 [4] T. Sellam, E. Müller and M. Kersten, "Semi-automated exploration of data warehouses," in 2015, . DOI: 10.1145/2806416.2806538.
+
 [5] Ma, Pingchuan, et al. "MetaInsight: Automatic Discovery of Structured Knowledge for Exploratory Data Analysis." Proceedings of the 2021 International Conference on Management of Data. 2021.
+
 [6] Saket, Bahador, Alex Endert, and Çağatay Demiralp. "Task-based effectiveness of basic visualizations." IEEE transactions on visualization and computer graphics 25.7 (2018): 2505-2512.
+
 [7] Amar, Robert, James Eagan, and John Stasko. "Low-level components of analytic activity in information visualization." IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.. IEEE, 2005.
+
 
 ## Milestones
 - [x] 可行性验证
