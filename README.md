@@ -1,7 +1,8 @@
+# migrated to https://github.com/Kanaries/Rath/tree/master/services/narrative-service
+
 # viexpl - 临时测试版
 
 针对一个数据视图（数据子集，由若干行列构成），（讨论输入视图到底是什么，是否包含聚合信息），使用预设的固定类型的洞察检测算子进行检测。最终生成视图对应在每个洞察类型上的显著性评分，和该洞察的一些具体的信息（如异常值、周期、和全局分布差异大的子分部等）
-
 
 测试地址 https://gateway.kanaries.cn:2433/insight
 
